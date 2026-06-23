@@ -1,29 +1,119 @@
- [
-    {
-      "nama": "Museum Zoologi",
-      "alamat": "Jl. Ir. H. Juanda No.9, Kota Bogor",
-      "keterangan": "Museum yang menyajikan koleksi keanekaragaman fauna Indonesia.",
-      "foto_url": "https://images.unsplash.com/photo-1576085898323-218337e3343c?w=500",
-      "latitude": -6.6019,
-      "longitude": 106.7994,
-      "kategori": ["Wisata Pendidikan", "Wisata Heritage"]
-    },
-    {
-      "nama": "Mall Botani Square",
-      "alamat": "Jl. Pajajaran No.40, Kota Bogor",
-      "keterangan": "Pusat perbelanjaan modern terbesar di pusat Kota Bogor.",
-      "foto_url": "https://images.unsplash.com/photo-1567449303078-57bd995bd37a?w=500",
-      "latitude": -6.6014,
-      "longitude": 106.8064,
-      "kategori": ["Wisata Belanja"]
-    },
-    {
-      "nama": "Alun-alun Kota Bogor",
-      "alamat": "Jl. Kapten Muslihat No.17, Kota Bogor",
-      "keterangan": "Taman kota terbuka hijau yang terintegrasi dengan Stasiun Bogor.",
-      "foto_url": "https://images.unsplash.com/photo-1596422846543-75c6fc18a523?w=500",
-      "latitude": -6.5949,
-      "longitude": 106.7915,
-      "kategori": ["Wisata Taman", "Wisata Heritage"]
-    }
-  ]
+[
+  {
+    "nama": "Museum Zoologi",
+    "alamat": "Jl. Ir. H. Juanda No.9, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
+    "keterangan": "Museum kuno legendaris yang menyimpan jutaan koleksi spesimen fauna awetan dari berbagai wilayah di Indonesia, mulai dari serangga, mamalia, hingga rangka paus biru raksasa.",
+    "foto_url": "https://images.unsplash.com/photo-1576085898323-218337e3343c?w=500",
+    "latitude": -6.6049,
+    "longitude": 106.7973,
+    "kategori": ["Wisata Pendidikan", "Wisata Heritage"]
+  },
+  {
+    "nama": "Museum PETA",
+    "alamat": "Jl. Jend. Sudirman No.35, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
+    "keterangan": "Museum bersejarah yang didirikan untuk menghormati jasa para pahlawan Pembela Tanah Air (PETA) dalam perjuangan kemerdekaan, menampilkan diorama dan senjata replika masa perang.",
+    "foto_url": "https://images.unsplash.com/photo-1599733589046-9b8308b5b50d?w=500",
+    "latitude": -6.5888,
+    "longitude": 106.7963,
+    "kategori": ["Wisata Pendidikan", "Wisata Heritage"]
+  },
+  {
+    "nama": "Mall Botani Square",
+    "alamat": "Jl. Pajajaran No.40, Tegal Lega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",
+    "keterangan": "Pusat perbelanjaan modern paling populer di pusat kota, terintegrasi langsung dengan IPB Convention Hotel dan Terminal Bus Damri Baranangsiang.",
+    "foto_url": "https://images.unsplash.com/photo-1567449303078-57bd995bd37a?w=500",
+    "latitude": -6.6014,
+    "longitude": 106.8064,
+    "kategori": ["Wisata Belanja"]
+  },
+  {
+    "nama": "Mall BTM (Bogor Trade Mall)",
+    "alamat": "Jl. Juanda No.68, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
+    "keterangan": "Pusat perbelanjaan dan pusat gadget yang ramai di Kota Bogor, berlokasi sangat dekat dengan pintu gerbang masuk Istana dan Kebun Raya Bogor.",
+    "foto_url": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=500",
+    "latitude": -6.6059,
+    "longitude": 106.7937,
+    "kategori": ["Wisata Belanja"]
+  },
+  {
+    "nama": "Bakso Titoti Bogor",
+    "alamat": "Jl. Siliwangi No.10, Bondongan, Kecamatan Bogor Selatan, Kota Bogor, Jawa Barat 16131",
+    "keterangan": "Kuliner bakso khas Wonogiri yang sangat legendaris di Bogor, terkenal dengan kuah kaldunya yang gurih mantap, bakso uratnya yang padat, serta tetelan yang melimpah.",
+    "foto_url": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=500",
+    "latitude": -6.6163,
+    "longitude": 106.8048,
+    "kategori": ["Wisata Kuliner"]
+  },
+  {
+    "nama": "Toge Goreng Pak Gebro",
+    "alamat": "Jl. Pengadilan No.4, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
+    "keterangan": "Salah satu kuliner legendaris tertua di Bogor yang sudah berjualan sejak tahun 1943. Menyajikan paduan toge, mi kuning, tahu, dan ketupat yang disiram bumbu tauco manis gurih di atas wajan datar.",
+    "foto_url": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=500",
+    "latitude": -6.5913,
+    "longitude": 106.7939,
+    "kategori": ["Wisata Kuliner"]
+  },
+  {
+    "nama": "Alun-alun Kota Bogor",
+    "alamat": "Jl. Kapten Muslihat No.17, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
+    "keterangan": "Taman kota terbuka hijau yang estetik dan multifungsi di jantung kota, dilengkapi area olahraga, taman bermain anak, dan langsung terintegrasi dengan bangunan Stasiun Bogor.",
+    "foto_url": "https://images.unsplash.com/photo-1596422846543-75c6fc18a523?w=500",
+    "latitude": -6.5949,
+    "longitude": 106.7915,
+    "kategori": ["Wisata Taman", "Wisata Heritage"]
+  },
+  {
+    "nama": "Lapangan Sempur",
+    "alamat": "Sempur, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",
+    "keterangan": "Pusat aktivitas olahraga warga Bogor yang asri, dikelilingi pepohonan rindang serta memiliki lintasan lari karet, area panjat dinding, lapangan basket, dan area kuliner malam di sekitarnya.",
+    "foto_url": "https://images.unsplash.com/photo-1508847154043-be12a62861c1?w=500",
+    "latitude": -6.5901,
+    "longitude": 106.7997,
+    "kategori": ["Wisata Taman", "Wisata Kuliner"]
+  },
+  {
+    "nama": "Taman Kencana",
+    "alamat": "Jl. Taman Kencana, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16128",
+    "keterangan": "Taman publik peninggalan zaman Belanda dengan konsep 'Kota Taman' yang sejuk. Area sekitar taman ini juga dikenal sebagai salah satu pusat surga wisata kuliner kreatif di Kota Bogor.",
+    "foto_url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=500",
+    "latitude": -6.5886,
+    "longitude": 106.8034,
+    "kategori": ["Wisata Taman", "Wisata Kuliner"]
+  },
+  {
+    "nama": "Balaikota Bogor",
+    "alamat": "Jl. Ir. H. Juanda No.10, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
+    "keterangan": "Gedung pusat pemerintahan Kota Bogor yang menempati bangunan bersejarah peninggalan kolonial Belanda. Memiliki arsitektur bergaya indis klasik yang megah dan terawat dengan halaman luas.",
+    "foto_url": "https://images.unsplash.com/photo-1579847259044-d8ff436e5229?w=500",
+    "latitude": -6.5947,
+    "longitude": 106.7958,
+    "kategori": ["Wisata Heritage"]
+  },
+  {
+    "nama": "Museum Tanah dan Pertanian",
+    "alamat": "Jl. Ir. H. Juanda No.98, Gudang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16123",
+    "keterangan": "Museum edukasi yang menyimpan berbagai jenis koleksi contoh tanah, batuan, alat pertanian tradisional zaman dulu, maket, hingga komoditas perkebunan bernilai sejarah di Indonesia.",
+    "foto_url": "https://images.unsplash.com/photo-1582738411706-bfc8e691d1c2?w=500",
+    "latitude": -6.6027,
+    "longitude": 106.7954,
+    "kategori": ["Wisata Pendidikan", "Wisata Heritage"]
+  },
+  {
+    "nama": "Kampung Batik Cibuluh",
+    "alamat": "Jl. RE. Sumantadiredja, Cibuluh, Kecamatan Bogor Utara, Kota Bogor, Jawa Barat 16151",
+    "keterangan": "Kampung wisata kreatif tematik di mana para pengunjung dapat melihat langsung proses pembuatan batik cap maupun tulis bermotif khas Bogor, seperti motif hujan, uncal (rusa), dan talas.",
+    "foto_url": "https://images.unsplash.com/photo-1610116306796-6ebd30d79143?w=500",
+    "latitude": -6.5594,
+    "longitude": 106.8122,
+    "kategori": ["Wisata Tematik", "Wisata Pendidikan"]
+  },
+  {
+    "nama": "Kampung Bambu (Eco-Wisata)",
+    "alamat": "Cibeureum, Mulyaharja, Kecamatan Bogor Selatan, Kota Bogor, Jawa Barat 16135",
+    "keterangan": "Kawasan wisata tematik berbasis pelestarian alam dan budaya pedesaan. Menyuguhkan pemandangan terasering sawah yang indah, edukasi pemanfaatan pohon bambu, serta permainan tradisional.",
+    "foto_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=500",
+    "latitude": -6.6433,
+    "longitude": 106.7876,
+    "kategori": ["Wisata Tematik", "Wisata Taman"]
+  }
+]
