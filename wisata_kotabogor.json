@@ -1,0 +1,29 @@
+ [
+    {
+      "nama": "Museum Zoologi",
+      "alamat": "Jl. Ir. H. Juanda No.9, Kota Bogor",
+      "keterangan": "Museum yang menyajikan koleksi keanekaragaman fauna Indonesia.",
+      "foto_url": "https://images.unsplash.com/photo-1576085898323-218337e3343c?w=500",
+      "latitude": -6.6019,
+      "longitude": 106.7994,
+      "kategori": ["Wisata Pendidikan", "Wisata Heritage"]
+    },
+    {
+      "nama": "Mall Botani Square",
+      "alamat": "Jl. Pajajaran No.40, Kota Bogor",
+      "keterangan": "Pusat perbelanjaan modern terbesar di pusat Kota Bogor.",
+      "foto_url": "https://images.unsplash.com/photo-1567449303078-57bd995bd37a?w=500",
+      "latitude": -6.6014,
+      "longitude": 106.8064,
+      "kategori": ["Wisata Belanja"]
+    },
+    {
+      "nama": "Alun-alun Kota Bogor",
+      "alamat": "Jl. Kapten Muslihat No.17, Kota Bogor",
+      "keterangan": "Taman kota terbuka hijau yang terintegrasi dengan Stasiun Bogor.",
+      "foto_url": "https://images.unsplash.com/photo-1596422846543-75c6fc18a523?w=500",
+      "latitude": -6.5949,
+      "longitude": 106.7915,
+      "kategori": ["Wisata Taman", "Wisata Heritage"]
+    }
+  ]
